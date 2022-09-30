@@ -1,5 +1,5 @@
 # MazeMCBot
-*The bot/messages are in: NL/Dutch*
+*The bot/messages language is: NL/Dutch*
 
 **Discord bot made in Java using JDA**
 
