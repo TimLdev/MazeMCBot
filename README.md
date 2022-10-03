@@ -11,6 +11,7 @@
 - Music system
 - Reaction roles
 - Logs system
+- Member count
 - Suggest
 - Moderation
 - Info commands
